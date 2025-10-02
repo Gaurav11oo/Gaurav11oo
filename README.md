@@ -5,7 +5,7 @@
 I am working on projects related to full stack development and web design.
 <!-- - 👨🏽‍💻 Current work in deep learning and algorithms. -->
 
-- 🤝 Looking for collaborations in deep learning, analytics and data science.
+- 🤝 Looking for collaborations in any full stack development projects.
 - 🌐 Visit my [porfolio website](https://gauravnishad.vercel.app/) for complete background and contact.
 
 <!-- //Technologies -->
