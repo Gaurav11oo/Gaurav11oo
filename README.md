@@ -44,11 +44,9 @@ I am working on projects related to full stack development and web design.
 <!--END_SECTION:waka-->
 
 
-![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=gaurav11oo&theme=tokyonight&show_icons=true)
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaurav11oo&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=gaurav11oo&show_icons=true&theme=radical&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav11oo&hide_langs_below=.25&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav11oo&theme=tokyonight&show_icons=true" />
 
 </p>
