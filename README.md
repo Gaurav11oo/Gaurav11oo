@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1piIw3xU-CDcEG2WsJqmxRHpKxpncOcAp/view?usp=drive_link>
+<img src="./banner.png>
 
 <p align="center" >
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Gaurav Nishad</h1>
