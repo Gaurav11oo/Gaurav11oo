@@ -47,7 +47,7 @@ I am working on projects related to full stack development and web design.
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=gaurav11oo&show_icons=true&theme=radical&line_height=33">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav11oo&hide_langs_below=.25&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav11oo&theme=tokyonight&show_icons=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav11oo&theme=tokyonight&show_icons=true" /> -->
 
 </p>
 
