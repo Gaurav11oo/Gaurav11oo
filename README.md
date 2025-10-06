@@ -10,6 +10,7 @@ I am working on projects related to full stack development and web design.
 
 <!-- //Technologies -->
 
+<h3>Programming Languages:</h3>
 ### Programming Languages:
 
 &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" alt="C" width="50" height="50"/>
