@@ -1,7 +1,7 @@
 <img src="./banner.png">
 
 <p align="center" >
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Gaurav Nishad</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Gaurav</h1>
 I am working on projects related to full stack development and web design.
 <!-- - 👨🏽‍💻 Current work in deep learning and algorithms. -->
 
