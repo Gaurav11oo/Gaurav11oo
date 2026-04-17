@@ -6,8 +6,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=700&color=0A66C2&center=true&vCenter=true&width=750&lines=Hi+I'm+Gaurav;Full+Stack+Developer;MERN+Stack+Developer;Web+Designer;Open+Source+Contributor"/>
 </p>
 
-<h3 align="center">Full Stack Developer</h3>
-
 <p align="center">
 Building scalable web applications using modern technologies and best practices.
 </p>
@@ -40,11 +38,15 @@ Building scalable web applications using modern technologies and best practices.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gaurav11oo&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gaurav11oo&show_icons=true&theme=tokyonight&hide_border=true">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav11oo&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav11oo&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav11oo&layout=compact&theme=tokyonight&hide_border=true">
+
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav11oo&theme=tokyonight&hide_border=true">
 
 </p>
 
