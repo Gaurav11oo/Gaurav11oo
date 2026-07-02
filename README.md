@@ -28,7 +28,7 @@ Building scalable web applications using modern technologies and best practices.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,vercel,postman,redux"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,nextjs,nodejs,express,postgres,mongodb,mysql,tailwind,prisma, sentry,git,github,vscode,vercel,postman,redux"/>
 
 </p>
 
